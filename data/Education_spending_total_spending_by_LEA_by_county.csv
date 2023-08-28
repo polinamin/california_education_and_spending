@@ -1,0 +1,942 @@
+CO Code,District Code,District,EDP 365,"Current
+Expense ADA","Current
+Expense Per ADA",LEA Type,County
+1.00,61119,Alameda Unified,117225883,8969,13070,Unified,Alameda
+1.00,61127,Albany City Unified,46611060,3545,13150,Unified,Alameda
+1.00,61143,Berkeley Unified,159457818,9356,17043,Unified,Alameda
+1.00,61150,Castro Valley Unified,102239937,8940,11436,Unified,Alameda
+1.00,61168,Emery Unified,12504023,682,18339,Unified,Alameda
+1.00,61176,Fremont Unified,382169476,33967,11251,Unified,Alameda
+1.00,61192,Hayward Unified,266964087,18755,14234,Unified,Alameda
+1.00,61200,Livermore Valley Joint Unified,158623654,13142,12070,Unified,Alameda
+1.00,61218,Mountain House Elementary,485229,15,32500,Elementary,Alameda
+1.00,61234,Newark Unified,66780275,5553,12026,Unified,Alameda
+1.00,61242,New Haven Unified,124186923,10018,12397,Unified,Alameda
+1.00,61259,Oakland Unified,538133452,32802,16406,Unified,Alameda
+1.00,61275,Piedmont City Unified,42452181,2522,16833,Unified,Alameda
+1.00,61291,San Leandro Unified,106671109,8473,12590,Unified,Alameda
+1.00,61309,San Lorenzo Unified,129723029,9644,13451,Unified,Alameda
+1.00,75093,Dublin Unified,122537246,11770,10411,Unified,Alameda
+1.00,75101,Pleasanton Unified,165366882,14503,11402,Unified,Alameda
+1.00,75119,Sunol Glen Unified,3706764,287,12908,Unified,Alameda
+2.00,61333,Alpine County Unified,3202880,74,43009,Unified,Alpine
+3.00,73981,Amador County Unified,36092489,3775,9560,Unified,Amador
+4.00,61382,Bangor Union Elementary,1327313,101,13202,Elementary,Butte
+4.00,61408,Biggs Unified,6898492,580,11889,Unified,Butte
+4.00,61424,Chico Unified,145844465,11783,12377,Unified,Butte
+4.00,61432,Durham Unified,11132392,998,11157,Unified,Butte
+4.00,61440,Feather Falls Union Elementary,372481,9,43413,Elementary,Butte
+4.00,61457,Golden Feather Union Elementary,1613106,52,30885,Elementary,Butte
+4.00,61499,Manzanita Elementary,2977943,308,9670,Elementary,Butte
+4.00,61507,Oroville City Elementary,27712865,2153,12872,Elementary,Butte
+4.00,61515,Oroville Union High,27856421,1981,14062,High,Butte
+4.00,61523,Palermo Union Elementary,14778799,1254,11785,Elementary,Butte
+4.00,61531,Paradise Unified,39503178,3153,12529,Unified,Butte
+4.00,61549,Thermalito Union Elementary,18706372,1496,12503,Elementary,Butte
+4.00,73379,Pioneer Union Elementary,901930,57,15840,Elementary,Butte
+4.00,75507,Gridley Unified,23369910,1981,11797,Unified,Butte
+5.00,61556,Bret Harte Union High,10985989,598,18370,High,Calaveras
+5.00,61564,Calaveras Unified,31919226,2644,12071,Unified,Calaveras
+5.00,61572,Mark Twain Union Elementary,8077590,735,10992,Elementary,Calaveras
+5.00,61580,Vallecito Union Elementary,8143778,538,15144,Elementary,Calaveras
+6.00,61598,Colusa Unified,15853987,1423,11144,Unified,Colusa
+6.00,61606,Maxwell Unified,4254260,327,13015,Unified,Colusa
+6.00,61614,Pierce Joint Unified,15109110,1416,10673,Unified,Colusa
+6.00,61622,Williams Unified,15600533,1227,12712,Unified,Colusa
+7.00,61630,Acalanes Union High,80123902,5426,14765,High,Contra Costa
+7.00,61648,Antioch Unified,205569457,15157,13563,Unified,Contra Costa
+7.00,61655,Brentwood Union Elementary,96904870,8898,10890,Elementary,Contra Costa
+7.00,61663,Byron Union Elementary,17425136,1418,12286,Elementary,Contra Costa
+7.00,61671,Canyon Elementary,899164,66,13556,Elementary,Contra Costa
+7.00,61697,John Swett Unified,16944621,1335,12691,Unified,Contra Costa
+7.00,61705,Knightsen Elementary,6221986,605,10284,Elementary,Contra Costa
+7.00,61713,Lafayette Elementary,41807976,3468,12055,Elementary,Contra Costa
+7.00,61721,Liberty Union High,90972618,7762,11720,High,Contra Costa
+7.00,61739,Martinez Unified,45252516,3936,11498,Unified,Contra Costa
+7.00,61747,Moraga Elementary,22235246,1814,12259,Elementary,Contra Costa
+7.00,61754,Mt. Diablo Unified,378275569,29299,12911,Unified,Contra Costa
+7.00,61762,Oakley Union Elementary,52605707,5014,10493,Elementary,Contra Costa
+7.00,61770,Orinda Union Elementary,33286207,2474,13453,Elementary,Contra Costa
+7.00,61788,Pittsburg Unified,140830835,10724,13132,Unified,Contra Costa
+7.00,61796,West Contra Costa Unified,356728762,26407,13509,Unified,Contra Costa
+7.00,61804,San Ramon Valley Unified,339618873,31055,10936,Unified,Contra Costa
+7.00,61812,Walnut Creek Elementary,38235135,3416,11192,Elementary,Contra Costa
+8.00,61820,Del Norte County Unified,44698597,3393,13174,Unified,Del Norte
+9.00,61838,Buckeye Union Elementary,49356482,4545,10860,Elementary,El Dorado
+9.00,61846,Camino Union Elementary,5331758,450,11843,Elementary,El Dorado
+9.00,61853,El Dorado Union High,77743141,6300,12341,High,El Dorado
+9.00,61879,Gold Oak Union Elementary,4713461,447,10537,Elementary,El Dorado
+9.00,61887,Gold Trail Union Elementary,6773636,631,10728,Elementary,El Dorado
+9.00,61895,Indian Diggings Elementary,296802,19,16000,Elementary,El Dorado
+9.00,61903,Lake Tahoe Unified,48032848,3590,13380,Unified,El Dorado
+9.00,61911,Latrobe Elementary,2188019,141,15500,Elementary,El Dorado
+9.00,61929,Mother Lode Union Elementary,11022596,986,11182,Elementary,El Dorado
+9.00,61945,Pioneer Union Elementary,3520511,275,12816,Elementary,El Dorado
+9.00,61952,Placerville Union Elementary,13321637,1241,10734,Elementary,El Dorado
+9.00,61960,Pollock Pines Elementary,7326891,626,11703,Elementary,El Dorado
+9.00,61978,Rescue Union Elementary,36921825,3531,10456,Elementary,El Dorado
+9.00,61986,Silver Fork Elementary,422942,10,43965,Elementary,El Dorado
+9.00,73783,Black Oak Mine Unified,11758401,978,12028,Unified,El Dorado
+10.00,61994,Alvina Elementary,2322223,197,11765,Elementary,Fresno
+10.00,62026,Big Creek Elementary,1176285,45,26198,Elementary,Fresno
+10.00,62042,Burrel Union Elementary,1731008,120,14462,Elementary,Fresno
+10.00,62109,Clay Joint Elementary,2397592,241,9965,Elementary,Fresno
+10.00,62117,Clovis Unified,445849474,41008,10872,Unified,Fresno
+10.00,62125,Coalinga-Huron Unified,54650684,4016,13609,Unified,Fresno
+10.00,62158,Fowler Unified,31435017,2482,12663,Unified,Fresno
+10.00,62166,Fresno Unified,910693020,66762,13641,Unified,Fresno
+10.00,62240,Kingsburg Elementary Charter,21783571,2231,9763,Elementary,Fresno
+10.00,62257,Kingsburg Joint Union High,13772119,1099,12530,High,Fresno
+10.00,62265,Kings Canyon Joint Unified,117294184,9082,12916,Unified,Fresno
+10.00,62281,Laton Joint Unified,9666240,632,15300,Unified,Fresno
+10.00,62323,Monroe Elementary,2333662,157,14889,Elementary,Fresno
+10.00,62331,Orange Center Elementary,4199403,303,13837,Elementary,Fresno
+10.00,62356,Pacific Union Elementary,5539780,388,14261,Elementary,Fresno
+10.00,62364,Parlier Unified,43396410,3316,13088,Unified,Fresno
+10.00,62372,Pine Ridge Elementary,2289526,100,22943,Elementary,Fresno
+10.00,62380,Raisin City Elementary,4139851,279,14855,Elementary,Fresno
+10.00,62414,Sanger Unified,126812105,10418,12173,Unified,Fresno
+10.00,62430,Selma Unified,83968563,6100,13766,Unified,Fresno
+10.00,62513,Washington Colony Elementary,4844344,441,10983,Elementary,Fresno
+10.00,62539,West Park Elementary,4563916,349,13078,Elementary,Fresno
+10.00,62547,Westside Elementary,3248989,178,18267,Elementary,Fresno
+10.00,73809,Firebaugh-Las Deltas Unified,30060424,2156,13946,Unified,Fresno
+10.00,73965,Central Unified,174390715,14933,11678,Unified,Fresno
+10.00,73999,Kerman Unified,55517150,5019,11062,Unified,Fresno
+10.00,75127,Mendota Unified,40020599,3330,12017,Unified,Fresno
+10.00,75234,Golden Plains Unified,23921081,1547,15467,Unified,Fresno
+10.00,75275,Sierra Unified,17211195,1194,14414,Unified,Fresno
+10.00,75408,Riverdale Joint Unified,20726992,1507,13757,Unified,Fresno
+10.00,75598,Caruthers Unified,18017826,1443,12483,Unified,Fresno
+10.00,76778,Washington Unified,34915218,2461,14187,Unified,Fresno
+11.00,62554,Capay Joint Union Elementary,1671436,198,8453,Elementary,Glenn
+11.00,62596,Lake Elementary,1634743,180,9082,Elementary,Glenn
+11.00,62638,Plaza Elementary,1592466,200,7971,Elementary,Glenn
+11.00,62646,Princeton Joint Unified,2211203,136,16276,Unified,Glenn
+11.00,62653,Stony Creek Joint Unified,1796497,60,30102,Unified,Glenn
+11.00,62661,Willows Unified,13541257,1380,9810,Unified,Glenn
+11.00,75481,Orland Joint Unified,25846507,2134,12113,Unified,Glenn
+11.00,76562,Hamilton Unified,7881947,688,11460,Unified,Glenn
+12.00,62679,Arcata Elementary,6559205,497,13191,Elementary,Humboldt
+12.00,62687,Northern Humboldt Union High,20452053,1406,14543,High,Humboldt
+12.00,62695,Big Lagoon Union Elementary,501440,16,30446,Elementary,Humboldt
+12.00,62703,Blue Lake Union Elementary,2083505,150,13849,Elementary,Humboldt
+12.00,62729,Bridgeville Elementary,599089,30,20010,Elementary,Humboldt
+12.00,62737,Cuddeback Union Elementary,1565858,142,10994,Elementary,Humboldt
+12.00,62745,Cutten Elementary,5630492,590,9545,Elementary,Humboldt
+12.00,62794,Fieldbrook Elementary,1426529,133,10745,Elementary,Humboldt
+12.00,62810,Fortuna Union High,13456259,1011,13307,High,Humboldt
+12.00,62828,Freshwater Elementary,3228269,289,11181,Elementary,Humboldt
+12.00,62836,Garfield Elementary,847298,60,14056,Elementary,Humboldt
+12.00,62851,Green Point Elementary,285993,18,16040,Elementary,Humboldt
+12.00,62885,Hydesville Elementary,1871055,181,10315,Elementary,Humboldt
+12.00,62893,Jacoby Creek Elementary,4523587,448,10095,Elementary,Humboldt
+12.00,62901,Klamath-Trinity Joint Unified,19542112,895,21840,Unified,Humboldt
+12.00,62919,Kneeland Elementary,385131,13,28870,Elementary,Humboldt
+12.00,62927,Loleta Union Elementary,1767787,106,16745,Elementary,Humboldt
+12.00,62935,Maple Creek Elementary,336888,5,69894,Elementary,Humboldt
+12.00,62950,Mckinleyville Union Elementary,12303263,1066,11537,Elementary,Humboldt
+12.00,62968,Orick Elementary,548666,18,29690,Elementary,Humboldt
+12.00,62976,Pacific Union Elementary,5852642,533,10980,Elementary,Humboldt
+12.00,62984,Peninsula Union Elementary,682227,39,17720,Elementary,Humboldt
+12.00,63008,Rio Dell Elementary,3707173,291,12733,Elementary,Humboldt
+12.00,63024,Scotia Union Elementary,2246695,169,13309,Elementary,Humboldt
+12.00,63032,South Bay Union Elementary,4949807,391,12666,Elementary,Humboldt
+12.00,63040,Southern Humboldt Joint Unified,9447330,690,13687,Unified,Humboldt
+12.00,63057,Trinidad Union Elementary,2071639,192,10772,Elementary,Humboldt
+12.00,75374,Ferndale Unified,6593767,451,14632,Unified,Humboldt
+12.00,75382,Mattole Unified,1699398,49,34831,Unified,Humboldt
+12.00,75515,Eureka City Unified,42610086,3388,12578,Unified,Humboldt
+12.00,76802,Fortuna Elementary,13497620,1082,12478,Elementary,Humboldt
+13.00,63073,Brawley Elementary,51320631,3860,13296,Elementary,Imperial
+13.00,63081,Brawley Union High,25381776,1844,13768,High,Imperial
+13.00,63099,Calexico Unified,117889165,8787,13417,Unified,Imperial
+13.00,63107,Calipatria Unified,15757347,1080,14587,Unified,Imperial
+13.00,63115,Central Union High,52303845,3953,13232,High,Imperial
+13.00,63123,El Centro Elementary,65893864,5094,12937,Elementary,Imperial
+13.00,63131,Heber Elementary,15231042,1226,12422,Elementary,Imperial
+13.00,63149,Holtville Unified,19498583,1509,12918,Unified,Imperial
+13.00,63164,Imperial Unified,46140788,4118,11205,Unified,Imperial
+13.00,63172,Magnolia Union Elementary,1387431,138,10083,Elementary,Imperial
+13.00,63180,Mccabe Union Elementary,13600393,1324,10275,Elementary,Imperial
+13.00,63198,Meadows Union Elementary,6336218,473,13390,Elementary,Imperial
+13.00,63206,Mulberry Elementary,902754,75,12071,Elementary,Imperial
+13.00,63214,San Pasqual Valley Unified,15094511,646,23371,Unified,Imperial
+13.00,63222,Seeley Union Elementary,4867443,359,13540,Elementary,Imperial
+13.00,63230,Westmorland Union Elementary,5858236,390,15005,Elementary,Imperial
+14.00,63248,Big Pine Unified,3651349,128,28506,Unified,Inyo
+14.00,63271,Death Valley Unified,1304764,25,51756,Unified,Inyo
+14.00,63289,Lone Pine Unified,4996605,295,16910,Unified,Inyo
+14.00,63297,Owens Valley Unified,2000202,74,26921,Unified,Inyo
+14.00,63305,Round Valley Joint Elementary,1540895,127,12121,Elementary,Inyo
+14.00,76687,Bishop Unified,22035265,1863,11831,Unified,Inyo
+15.00,63313,Arvin Union Elementary,36476631,2984,12224,Elementary,Kern
+15.00,63321,Bakersfield City Elementary,411789612,29418,13998,Elementary,Kern
+15.00,63339,Beardsley Elementary,22289922,1814,12286,Elementary,Kern
+15.00,63347,Belridge Elementary,1002462,36,27754,Elementary,Kern
+15.00,63354,Blake Elementary,199975,13,15058,Elementary,Kern
+15.00,63362,Panama-Buena Vista Union Elementary,202673482,17843,11359,Elementary,Kern
+15.00,63370,Buttonwillow Union Elementary,4668765,316,14789,Elementary,Kern
+15.00,63388,Caliente Union Elementary,743817,44,16772,Elementary,Kern
+15.00,63404,Delano Union Elementary,74390689,5073,14663,Elementary,Kern
+15.00,63412,Delano Joint Union High,56962788,4028,14140,High,Kern
+15.00,63420,Di Giorgio Elementary,2300433,203,11347,Elementary,Kern
+15.00,63438,Edison Elementary,13314896,1014,13131,Elementary,Kern
+15.00,63446,Elk Hills Elementary,1823395,181,10082,Elementary,Kern
+15.00,63461,Fairfax Elementary,30948764,2564,12073,Elementary,Kern
+15.00,63479,Fruitvale Elementary,30912748,3062,10094,Elementary,Kern
+15.00,63487,General Shafter Elementary,2697710,154,17510,Elementary,Kern
+15.00,63503,Greenfield Union,103626299,9150,11325,Elementary,Kern
+15.00,63529,Kern High,515782697,37678,13689,High,Kern
+15.00,63545,Kernville Union Elementary,11676689,841,13891,Elementary,Kern
+15.00,63552,Lakeside Union Elementary,13214107,1332,9919,Elementary,Kern
+15.00,63560,Lamont Elementary,36491770,2886,12643,Elementary,Kern
+15.00,63578,Richland Union Elementary,37533904,2781,13498,Elementary,Kern
+15.00,63586,Linns Valley-Poso Flat Union,553207,18,30992,Elementary,Kern
+15.00,63594,Lost Hills Union Elementary,6914978,405,17070,Elementary,Kern
+15.00,63610,Maple Elementary,2652053,282,9398,Elementary,Kern
+15.00,63628,Maricopa Unified,5600755,276,20295,Unified,Kern
+15.00,63651,Mckittrick Elementary,2021002,72,28081,Elementary,Kern
+15.00,63669,Midway Elementary,1450514,81,17813,Elementary,Kern
+15.00,63677,Mojave Unified,32978837,2560,12883,Unified,Kern
+15.00,63685,Muroc Joint Unified,19221351,1689,11382,Unified,Kern
+15.00,63693,Norris Elementary,34300556,4066,8435,Elementary,Kern
+15.00,63719,Pond Union Elementary,2768151,185,14936,Elementary,Kern
+15.00,63750,Rosedale Union Elementary,54781258,5594,9794,Elementary,Kern
+15.00,63768,Semitropic Elementary,2334753,205,11389,Elementary,Kern
+15.00,63776,Southern Kern Unified,41783046,3329,12551,Unified,Kern
+15.00,63784,South Fork Union Elementary,2940650,244,12066,Elementary,Kern
+15.00,63792,Standard Elementary,31909419,2882,11071,Elementary,Kern
+15.00,63800,Taft City Elementary,24527115,2218,11057,Elementary,Kern
+15.00,63818,Taft Union High,21214927,953,22272,High,Kern
+15.00,63826,Tehachapi Unified,43350427,4030,10758,Unified,Kern
+15.00,63834,Vineland Elementary,7480004,637,11734,Elementary,Kern
+15.00,63842,Wasco Union Elementary,41683352,3515,11860,Elementary,Kern
+15.00,63859,Wasco Union High,21409174,1750,12232,High,Kern
+15.00,73544,Rio Bravo-Greeley Union Elementary,9833638,1033,9516,Elementary,Kern
+15.00,73742,Sierra Sands Unified,57305929,4849,11818,Unified,Kern
+15.00,73908,Mcfarland Unified,41739886,3307,12622,Unified,Kern
+15.00,75168,El Tejon Unified,8625449,684,12603,Unified,Kern
+16.00,63875,Armona Union Elementary,11483328,912,12588,Elementary,Kings
+16.00,63883,Central Union Elementary,26162169,1778,14717,Elementary,Kings
+16.00,63891,Corcoran Joint Unified,39711773,3119,12734,Unified,Kings
+16.00,63917,Hanford Elementary,62377941,5346,11668,Elementary,Kings
+16.00,63925,Hanford Joint Union High,46471416,3604,12896,High,Kings
+16.00,63933,Island Union Elementary,3856248,421,9150,Elementary,Kings
+16.00,63941,Kings River-Hardwick Union Elementary,7739723,788,9821,Elementary,Kings
+16.00,63958,Kit Carson Union Elementary,4311512,363,11872,Elementary,Kings
+16.00,63966,Lakeside Union Elementary,3641747,306,11917,Elementary,Kings
+16.00,63974,Lemoore Union Elementary,33327484,3035,10980,Elementary,Kings
+16.00,63982,Lemoore Union High,23235434,1812,12821,High,Kings
+16.00,63990,Pioneer Union Elementary,15814707,1529,10340,Elementary,Kings
+16.00,73932,Reef-Sunset Unified,33543581,2551,13150,Unified,Kings
+17.00,64014,Kelseyville Unified,21984210,1596,13772,Unified,Lake
+17.00,64022,Konocti Unified,43234686,3226,13401,Unified,Lake
+17.00,64030,Lakeport Unified,18211595,1366,13333,Unified,Lake
+17.00,64048,Lucerne Elementary,3131639,246,12709,Elementary,Lake
+17.00,64055,Middletown Unified,15726040,1399,11240,Unified,Lake
+17.00,76976,Upper Lake Unified,10287378,760,13532,Unified,Lake
+18.00,64089,Big Valley Joint Unified,2443847,123,19904,Unified,Lassen
+18.00,64105,Janesville Union Elementary,3452373,355,9724,Elementary,Lassen
+18.00,64113,Johnstonville Elementary,1813212,178,10164,Elementary,Lassen
+18.00,64139,Lassen Union High,9631138,725,13287,High,Lassen
+18.00,64162,Ravendale-Termo Elementary,269180,7,41349,Elementary,Lassen
+18.00,64170,Richmond Elementary,1985590,213,9322,Elementary,Lassen
+18.00,64188,Shaffer Union Elementary,1997789,186,10733,Elementary,Lassen
+18.00,64196,Susanville Elementary,10528193,1045,10079,Elementary,Lassen
+18.00,64204,Westwood Unified,2608781,166,15763,Unified,Lassen
+18.00,75036,Fort Sage Unified,2312850,124,18632,Unified,Lassen
+19.00,64212,ABC Unified,230685270,19754,11678,Unified,Los Angeles
+19.00,64246,Antelope Valley Union High,270991264,19426,13950,High,Los Angeles
+19.00,64261,Arcadia Unified,106247184,9129,11638,Unified,Los Angeles
+19.00,64279,Azusa Unified,110109228,7744,14218,Unified,Los Angeles
+19.00,64287,Baldwin Park Unified,166397357,12017,13847,Unified,Los Angeles
+19.00,64295,Bassett Unified,43150223,3318,13004,Unified,Los Angeles
+19.00,64303,Bellflower Unified,145793378,11292,12912,Unified,Los Angeles
+19.00,64311,Beverly Hills Unified,71118089,3599,19759,Unified,Los Angeles
+19.00,64329,Bonita Unified,107261274,9671,11091,Unified,Los Angeles
+19.00,64337,Burbank Unified,169596962,14579,11633,Unified,Los Angeles
+19.00,64345,Castaic Union Elementary,20981654,1972,10640,Elementary,Los Angeles
+19.00,64352,Centinela Valley Union High,95859689,5935,16151,High,Los Angeles
+19.00,64378,Charter Oak Unified,55746076,4457,12508,Unified,Los Angeles
+19.00,64394,Claremont Unified,76595379,6659,11503,Unified,Los Angeles
+19.00,64436,Covina-Valley Unified,147089435,11259,13064,Unified,Los Angeles
+19.00,64444,Culver City Unified,79743590,6865,11616,Unified,Los Angeles
+19.00,64451,Downey Unified,271186754,21135,12831,Unified,Los Angeles
+19.00,64469,Duarte Unified,45566001,3417,13336,Unified,Los Angeles
+19.00,64477,Eastside Union Elementary,40419150,3088,13089,Elementary,Los Angeles
+19.00,64485,East Whittier City Elementary,95459598,8323,11469,Elementary,Los Angeles
+19.00,64501,El Monte City Elementary,108106012,7929,13634,Elementary,Los Angeles
+19.00,64519,El Monte Union High,121314593,8130,14922,High,Los Angeles
+19.00,64527,El Rancho Unified,101714508,8159,12467,Unified,Los Angeles
+19.00,64535,El Segundo Unified,38774925,3340,11609,Unified,Los Angeles
+19.00,64550,Garvey Elementary,64214012,4448,14438,Elementary,Los Angeles
+19.00,64568,Glendale Unified,305954698,24874,12300,Unified,Los Angeles
+19.00,64576,Glendora Unified,79635073,6943,11470,Unified,Los Angeles
+19.00,64584,Gorman Joint,1227959,75,16467,Elementary,Los Angeles
+19.00,64592,Hawthorne Elementary,89979570,7177,12538,Elementary,Los Angeles
+19.00,64600,Hermosa Beach City Elementary,13362937,1293,10332,Elementary,Los Angeles
+19.00,64626,Hughes-Elizabeth Lakes Union Elementary,1955290,183,10685,Elementary,Los Angeles
+19.00,64634,Inglewood Unified,120144978,8201,14649,Unified,Los Angeles
+19.00,64642,Keppel Union Elementary,31943933,2512,12717,Elementary,Los Angeles
+19.00,64659,La Canada Unified,46643419,4037,11554,Unified,Los Angeles
+19.00,64667,Lancaster Elementary,161943446,13288,12188,Elementary,Los Angeles
+19.00,64683,Las Virgenes Unified,120746308,10664,11323,Unified,Los Angeles
+19.00,64691,Lawndale Elementary,79279793,5070,15637,Elementary,Los Angeles
+19.00,64709,Lennox Elementary,72202974,5089,14188,Elementary,Los Angeles
+19.00,64717,Little Lake City Elementary,51125189,4154,12308,Elementary,Los Angeles
+19.00,64725,Long Beach Unified,907662690,69003,13154,Unified,Los Angeles
+19.00,64733,Los Angeles Unified,7213548357,453121,15920,Unified,Los Angeles
+19.00,64758,Los Nietos Elementary,22985107,1505,15275,Elementary,Los Angeles
+19.00,64766,Lowell Joint Elementary,29118385,3069,9487,Elementary,Los Angeles
+19.00,64774,Lynwood Unified,172236163,12790,13466,Unified,Los Angeles
+19.00,64790,Monrovia Unified,67353692,5149,13080,Unified,Los Angeles
+19.00,64808,Montebello Unified,318976519,23871,13362,Unified,Los Angeles
+19.00,64816,Mountain View Elementary,88166299,6058,14553,Elementary,Los Angeles
+19.00,64832,Newhall Elementary,71290088,6320,11280,Elementary,Los Angeles
+19.00,64840,Norwalk-La Mirada Unified,223590772,16663,13418,Unified,Los Angeles
+19.00,64857,Palmdale Elementary,235809823,18084,13039,Elementary,Los Angeles
+19.00,64865,Palos Verdes Peninsula Unified,127056965,10825,11738,Unified,Los Angeles
+19.00,64873,Paramount Unified,187494282,14140,13260,Unified,Los Angeles
+19.00,64881,Pasadena Unified,216140981,15396,14039,Unified,Los Angeles
+19.00,64907,Pomona Unified,292839808,21582,13569,Unified,Los Angeles
+19.00,64931,Rosemead Elementary,31597329,2365,13361,Elementary,Los Angeles
+19.00,64964,San Marino Unified,40602014,2903,13984,Unified,Los Angeles
+19.00,64980,Santa Monica-Malibu Unified,157457043,10070,15636,Unified,Los Angeles
+19.00,64998,Saugus Union Elementary,103586726,9462,10948,Elementary,Los Angeles
+19.00,65029,South Pasadena Unified,49919287,4627,10788,Unified,Los Angeles
+19.00,65037,South Whittier Elementary,35005183,2600,13463,Elementary,Los Angeles
+19.00,65045,Sulphur Springs Union Elementary,57297082,5123,11184,Elementary,Los Angeles
+19.00,65052,Temple City Unified,59227545,5529,10712,Unified,Los Angeles
+19.00,65060,Torrance Unified,246874250,22484,10980,Unified,Los Angeles
+19.00,65078,Valle Lindo Elementary,13118268,1049,12505,Elementary,Los Angeles
+19.00,65094,West Covina Unified,118789979,8218,14455,Unified,Los Angeles
+19.00,65102,Westside Union Elementary,97843033,9211,10623,Elementary,Los Angeles
+19.00,65110,Whittier City Elementary,69559854,5807,11979,Elementary,Los Angeles
+19.00,65128,Whittier Union High,158246088,10868,14560,High,Los Angeles
+19.00,65136,William S. Hart Union High,255144957,21359,11945,High,Los Angeles
+19.00,65151,Wilsona Elementary,14437211,1178,12258,Elementary,Los Angeles
+19.00,73437,Compton Unified,290278111,19816,14649,Unified,Los Angeles
+19.00,73445,Hacienda La Puente Unified,213546713,17395,12276,Unified,Los Angeles
+19.00,73452,Rowland Unified,165022748,12729,12965,Unified,Los Angeles
+19.00,73460,Walnut Valley Unified,142291877,13576,10481,Unified,Los Angeles
+19.00,75291,San Gabriel Unified,62011476,4817,12874,Unified,Los Angeles
+19.00,75309,Acton-Agua Dulce Unified,14654007,1028,14260,Unified,Los Angeles
+19.00,75333,Manhattan Beach Unified,87391824,6311,13848,Unified,Los Angeles
+19.00,75341,Redondo Beach Unified,103289495,9633,10723,Unified,Los Angeles
+19.00,75713,Alhambra Unified,210900296,15967,13209,Unified,Los Angeles
+19.00,76869,Wiseburn Unified,28145161,2446,11505,Unified,Los Angeles
+20.00,65177,Alview-Dairyland Union Elementary,4123469,388,10619,Elementary,Madera
+20.00,65185,Bass Lake Joint Union Elementary,9103294,847,10749,Elementary,Madera
+20.00,65193,Chowchilla Elementary,23874920,2160,11053,Elementary,Madera
+20.00,65201,Chowchilla Union High,13012609,1035,12571,High,Madera
+20.00,65243,Madera Unified,235737619,18888,12481,Unified,Madera
+20.00,65276,Raymond-Knowles Union Elementary,1070213,78,13714,Elementary,Madera
+20.00,75580,Golden Valley Unified,21014693,1918,10959,Unified,Madera
+20.00,75606,Chawanakee Unified,9028333,694,13018,Unified,Madera
+20.00,76414,Yosemite Unified,18536563,1451,12771,Unified,Madera
+21.00,65300,Bolinas-Stinson Union Elementary,4421921,81,54464,Elementary,Marin
+21.00,65318,Dixie Elementary,24561156,1912,12843,Elementary,Marin
+21.00,65334,Kentfield Elementary,18924845,1178,16071,Elementary,Marin
+21.00,65342,Laguna Joint Elementary,298472,14,22093,Elementary,Marin
+21.00,65359,Lagunitas Elementary,3991698,220,18114,Elementary,Marin
+21.00,65367,Larkspur-Corte Madera,21024739,1488,14134,Elementary,Marin
+21.00,65375,Lincoln Elementary,334423,4,86414,Elementary,Marin
+21.00,65391,Mill Valley Elementary,45342647,2839,15972,Elementary,Marin
+21.00,65409,Nicasio Elementary,957569,38,25420,Elementary,Marin
+21.00,65417,Novato Unified,91430747,7121,12840,Unified,Marin
+21.00,65425,Reed Union Elementary,22648709,1308,17319,Elementary,Marin
+21.00,65433,Ross Elementary,8305128,380,21863,Elementary,Marin
+21.00,65458,San Rafael City Elementary,57159050,4444,12861,Elementary,Marin
+21.00,65466,San Rafael City High,37237638,2490,14953,High,Marin
+21.00,65474,Sausalito Marin City Elementary,5678822,108,52344,Elementary,Marin
+21.00,65482,Tamalpais Union High,94233344,4785,19695,High,Marin
+21.00,73361,Shoreline Unified,14190855,477,29742,Unified,Marin
+21.00,75002,Ross Valley Elementary,26363642,1997,13202,Elementary,Marin
+22.00,65532,Mariposa County Unified,21381754,1598,13384,Unified,Mariposa
+23.00,65540,Anderson Valley Unified,7792587,446,17472,Unified,Mendocino
+23.00,65565,Fort Bragg Unified,23447251,1678,13973,Unified,Mendocino
+23.00,65573,Manchester Union Elementary,852590,36,23404,Elementary,Mendocino
+23.00,65581,Mendocino Unified,8682169,496,17492,Unified,Mendocino
+23.00,65607,Round Valley Unified,7960365,381,20891,Unified,Mendocino
+23.00,65615,Ukiah Unified,75204715,5592,13448,Unified,Mendocino
+23.00,65623,Willits Unified,20169877,1402,14385,Unified,Mendocino
+23.00,73866,Potter Valley Community Unified,3995787,247,16196,Unified,Mendocino
+23.00,73916,Laytonville Unified,5637159,334,16874,Unified,Mendocino
+23.00,75218,Leggett Valley Unified,2532725,116,21808,Unified,Mendocino
+23.00,76349,Arena Union Elementary/Point Arena Joint Union High ,7605360,343,22151,Comm admin dist,Mendocino
+24.00,65631,Atwater Elementary,50373511,4899,10283,Elementary,Merced
+24.00,65649,Ballico-Cressey Elementary,1112797,46,24233,Elementary,Merced
+24.00,65680,El Nido Elementary,2301179,169,13583,Elementary,Merced
+24.00,65698,Hilmar Unified,27435692,2249,12197,Unified,Merced
+24.00,65722,Le Grand Union Elementary,5059919,358,14119,Elementary,Merced
+24.00,65730,Le Grand Union High,7339517,471,15588,High,Merced
+24.00,65748,Livingston Union Elementary,28127263,2385,11794,Elementary,Merced
+24.00,65755,Los Banos Unified,123537114,10451,11821,Unified,Merced
+24.00,65763,McSwain Union Elementary,8723462,845,10323,Elementary,Merced
+24.00,65771,Merced City Elementary,123464874,10550,11702,Elementary,Merced
+24.00,65789,Merced Union High,137544105,9945,13830,High,Merced
+24.00,65813,Plainsburg Union Elementary,1115454,104,10685,Elementary,Merced
+24.00,65821,Planada Elementary,10816185,788,13731,Elementary,Merced
+24.00,65839,Snelling-Merced Falls Union Elementary,1133884,72,15845,Elementary,Merced
+24.00,65862,Weaver Union Elementary,33442121,2756,12136,Elementary,Merced
+24.00,65870,Winton Elementary,21927722,1918,11433,Elementary,Merced
+24.00,73619,Gustine Unified,21609694,1737,12444,Unified,Merced
+24.00,73726,Merced River Union Elementary,1885240,174,10856,Elementary,Merced
+24.00,75317,Dos Palos Oro Loma Joint Unified,30401653,2282,13325,Unified,Merced
+24.00,75366,Delhi Unified,32689460,2465,13261,Unified,Merced
+25.00,65896,Surprise Valley Joint Unified,1758735,108,16280,Unified,Modoc
+25.00,73585,Modoc Joint Unified,9123386,801,11383,Unified,Modoc
+25.00,73593,Tulelake Basin Joint Unified,5821483,363,16023,Unified,Modoc
+26.00,73668,Eastern Sierra Unified,10198561,383,26631,Unified,Mono
+26.00,73692,Mammoth Unified,14107207,1147,12301,Unified,Mono
+27.00,65961,Alisal Union Elementary,94752073,8274,11452,Elementary,Monterey
+27.00,65979,Bradley Union Elementary,1405736,71,19688,Elementary,Monterey
+27.00,65987,Carmel Unified,56264100,2359,23850,Unified,Monterey
+27.00,65995,Chualar Union Elementary,3997144,293,13619,Elementary,Monterey
+27.00,66027,Graves Elementary,455108,41,11079,Elementary,Monterey
+27.00,66035,Greenfield Union Elementary,45027662,3443,13076,Elementary,Monterey
+27.00,66050,King City Union Elementary,30476794,2558,11913,Elementary,Monterey
+27.00,66068,South Monterey County Joint Union High,30055680,2201,13657,High,Monterey
+27.00,66076,Lagunita Elementary,1013915,98,10378,Elementary,Monterey
+27.00,66084,Mission Union Elementary,1471757,124,11847,Elementary,Monterey
+27.00,66092,Monterey Peninsula Unified,117786079,9011,13071,Unified,Monterey
+27.00,66134,Pacific Grove Unified,33796401,1904,17747,Unified,Monterey
+27.00,66142,Salinas City Elementary,99855409,8300,12031,Elementary,Monterey
+27.00,66159,Salinas Union High,190887923,14888,12822,High,Monterey
+27.00,66167,San Antonio Union Elementary,1916040,115,16608,Elementary,Monterey
+27.00,66175,San Ardo Union Elementary,1576003,104,15215,Elementary,Monterey
+27.00,66183,San Lucas Union Elementary,1049462,73,14372,Elementary,Monterey
+27.00,66191,Santa Rita Union Elementary,35020469,3462,10114,Elementary,Monterey
+27.00,66225,Spreckels Union Elementary,9344028,939,9953,Elementary,Monterey
+27.00,66233,Washington Union Elementary,8255325,860,9598,Elementary,Monterey
+27.00,73825,North Monterey County Unified,57712048,4320,13359,Unified,Monterey
+27.00,75150,Big Sur Unified,924328,11,83877,Unified,Monterey
+27.00,75440,Soledad Unified,60495167,4622,13088,Unified,Monterey
+27.00,75473,Gonzales Unified,30370795,2258,13450,Unified,Monterey
+28.00,66241,Calistoga Joint Unified,16625776,834,19946,Unified,Napa
+28.00,66258,Howell Mountain Elementary,1545554,77,20187,Elementary,Napa
+28.00,66266,Napa Valley Unified,192879519,15697,12287,Unified,Napa
+28.00,66282,Pope Valley Union Elementary,1538497,46,33129,Elementary,Napa
+28.00,66290,Saint Helena Unified,33564782,1262,26594,Unified,Napa
+29.00,66316,Chicago Park Elementary,1821322,110,16492,Elementary,Nevada
+29.00,66324,Clear Creek Elementary,1565483,153,10209,Elementary,Nevada
+29.00,66332,Grass Valley Elementary,15559996,1206,12898,Elementary,Nevada
+29.00,66340,Nevada City Elementary,8091708,691,11717,Elementary,Nevada
+29.00,66357,Nevada Joint Union High,37324644,2383,15660,High,Nevada
+29.00,66373,Pleasant Ridge Union Elementary,12107154,1118,10829,Elementary,Nevada
+29.00,66407,Union Hill Elementary,7079471,673,10523,Elementary,Nevada
+29.00,66415,Twin Ridges Elementary,1762600,90,19517,Elementary,Nevada
+29.00,76877,Penn Valley Union Elementary,6148245,512,12018,Elementary,Nevada
+30.00,66423,Anaheim Elementary,217673689,15966,13633,Elementary,Orange
+30.00,66431,Anaheim Union High,364477147,28683,12707,High,Orange
+30.00,66449,Brea-Olinda Unified,57997561,5777,10039,Unified,Orange
+30.00,66456,Buena Park Elementary,56904636,4327,13151,Elementary,Orange
+30.00,66464,Capistrano Unified,473897665,45171,10491,Unified,Orange
+30.00,66472,Centralia Elementary,50715343,4107,12347,Elementary,Orange
+30.00,66480,Cypress Elementary,40888194,3800,10759,Elementary,Orange
+30.00,66498,Fountain Valley Elementary,61651169,6152,10021,Elementary,Orange
+30.00,66506,Fullerton Elementary,146916754,12653,11611,Elementary,Orange
+30.00,66514,Fullerton Joint Union High,154360658,13013,11862,High,Orange
+30.00,66522,Garden Grove Unified,529652658,40854,12964,Unified,Orange
+30.00,66530,Huntington Beach City Elementary,65789906,6423,10243,Elementary,Orange
+30.00,66548,Huntington Beach Union High,191539817,15164,12631,High,Orange
+30.00,66555,Laguna Beach Unified,57162921,2738,20878,Unified,Orange
+30.00,66563,La Habra City Elementary,57668227,4442,12984,Elementary,Orange
+30.00,66589,Magnolia Elementary,67665541,5639,11999,Elementary,Orange
+30.00,66597,Newport-Mesa Unified,292042176,19606,14895,Unified,Orange
+30.00,66613,Ocean View Elementary,87790086,7735,11350,Elementary,Orange
+30.00,66621,Orange Unified,279010635,24207,11526,Unified,Orange
+30.00,66647,Placentia-Yorba Linda Unified,265699577,24263,10951,Unified,Orange
+30.00,66670,Santa Ana Unified,625032699,44929,13912,Unified,Orange
+30.00,66696,Savanna Elementary,25200673,2115,11913,Elementary,Orange
+30.00,66746,Westminster Elementary,104036504,8884,11711,Elementary,Orange
+30.00,73635,Saddleback Valley Unified,296122935,25524,11602,Unified,Orange
+30.00,73643,Tustin Unified,246274739,22921,10744,Unified,Orange
+30.00,73650,Irvine Unified,376943898,34272,10999,Unified,Orange
+30.00,73924,Los Alamitos Unified,108644810,9470,11472,Unified,Orange
+31.00,66761,Ackerman Charter,5013248,568,8824,Elementary,Placer
+31.00,66779,Alta-Dutch Flat Union Elementary,1462968,96,15317,Elementary,Placer
+31.00,66787,Auburn Union Elementary,20119582,1664,12093,Elementary,Placer
+31.00,66795,Colfax Elementary,4291710,350,12250,Elementary,Placer
+31.00,66803,Dry Creek Joint Elementary,69019613,6499,10620,Elementary,Placer
+31.00,66829,Eureka Union Elementary,35057033,3244,10807,Elementary,Placer
+31.00,66837,Foresthill Union Elementary,4415533,382,11571,Elementary,Placer
+31.00,66845,Loomis Union Elementary,23524759,2410,9761,Elementary,Placer
+31.00,66852,Newcastle Elementary,3251127,173,18755,Elementary,Placer
+31.00,66886,Placer Hills Union Elementary,7378466,724,10189,Elementary,Placer
+31.00,66894,Placer Union High,47448637,3679,12896,High,Placer
+31.00,66910,Roseville City Elementary,112743534,10932,10313,Elementary,Placer
+31.00,66928,Roseville Joint Union High,118922913,9798,12138,High,Placer
+31.00,66944,Tahoe-Truckee Unified,69497225,3676,18907,Unified,Placer
+31.00,66951,Western Placer Unified,74358032,6765,10992,Unified,Placer
+31.00,75085,Rocklin Unified,127901296,11590,11036,Unified,Placer
+32.00,66969,Plumas Unified,27008744,1702,15873,Unified,Plumas
+33.00,66977,Alvord Unified,233776020,17540,13328,Unified,Riverside
+33.00,66985,Banning Unified,57967453,4245,13656,Unified,Riverside
+33.00,66993,Beaumont Unified,113392475,9960,11384,Unified,Riverside
+33.00,67033,Corona-Norco Unified,576153308,50990,11299,Unified,Riverside
+33.00,67041,Desert Center Unified,1217928,25,48427,Unified,Riverside
+33.00,67058,Desert Sands Unified,328383803,24773,13256,Unified,Riverside
+33.00,67082,Hemet Unified,272916594,20075,13595,Unified,Riverside
+33.00,67090,Jurupa Unified,227215666,18356,12379,Unified,Riverside
+33.00,67116,Menifee Union Elementary,100731792,9974,10100,Elementary,Riverside
+33.00,67124,Moreno Valley Unified,418387905,30565,13689,Unified,Riverside
+33.00,67157,Nuview Union Elementary,17444835,1471,11856,Elementary,Riverside
+33.00,67173,Palm Springs Unified,299003247,20339,14701,Unified,Riverside
+33.00,67181,Palo Verde Unified,35111394,2762,12712,Unified,Riverside
+33.00,67199,Perris Elementary,61866715,4620,13392,Elementary,Riverside
+33.00,67207,Perris Union High,122746123,9008,13626,High,Riverside
+33.00,67215,Riverside Unified,498809656,38720,12882,Unified,Riverside
+33.00,67231,Romoland Elementary,43499065,3925,11081,Elementary,Riverside
+33.00,67249,San Jacinto Unified,123520040,9606,12859,Unified,Riverside
+33.00,73676,Coachella Valley Unified,236206587,16839,14028,Unified,Riverside
+33.00,75176,Lake Elsinore Unified,246377366,20092,12262,Unified,Riverside
+33.00,75192,Temecula Valley Unified,282842861,26622,10624,Unified,Riverside
+33.00,75200,Murrieta Valley Unified,239474229,22089,10841,Unified,Riverside
+33.00,75242,Val Verde Unified,235133286,19342,12157,Unified,Riverside
+34.00,67280,Arcohe Union Elementary,4706572,436,10796,Elementary,Sacramento
+34.00,67314,Elk Grove Unified,733618038,60022,12222,Unified,Sacramento
+34.00,67322,Elverta Joint Elementary,2559915,204,12527,Elementary,Sacramento
+34.00,67330,Folsom-Cordova Unified,223508669,19502,11461,Unified,Sacramento
+34.00,67348,Galt Joint Union Elementary,39606379,3434,11533,Elementary,Sacramento
+34.00,67355,Galt Joint Union High,27835248,2071,13440,High,Sacramento
+34.00,67413,River Delta Joint Unified,23790801,1849,12864,Unified,Sacramento
+34.00,67421,Robla Elementary,27339773,1948,14038,Elementary,Sacramento
+34.00,67439,Sacramento City Unified,521831152,38125,13687,Unified,Sacramento
+34.00,67447,San Juan Unified,475626254,37401,12717,Unified,Sacramento
+34.00,73973,Center Joint Unified,50745058,4013,12644,Unified,Sacramento
+34.00,75283,Natomas Unified,122032773,9754,12511,Unified,Sacramento
+34.00,76505,Twin Rivers Unified,340385281,24150,14095,Unified,Sacramento
+35.00,67454,Bitterwater-Tully Elementary,353825,35,10086,Elementary,San Benito
+35.00,67462,Cienega Union Elementary,322429,28,11515,Elementary,San Benito
+35.00,67470,Hollister Elementary,61313075,5335,11493,Elementary,San Benito
+35.00,67488,Jefferson Elementary,200910,6,31197,Elementary,San Benito
+35.00,67504,North County Joint Union Elementary,6784034,690,9829,Elementary,San Benito
+35.00,67520,Panoche Elementary,174194,4,41974,Elementary,San Benito
+35.00,67538,San Benito High,36403246,2908,12517,High,San Benito
+35.00,67553,Southside Elementary,1748151,193,9051,Elementary,San Benito
+35.00,67561,Tres Pinos Union Elementary,979856,104,9430,Elementary,San Benito
+35.00,67579,Willow Grove Union Elementary,315532,13,25243,Elementary,San Benito
+35.00,75259,Aromas - San Juan Unified,12162213,992,12262,Unified,San Benito
+36.00,67587,Adelanto Elementary,95938829,7706,12450,Elementary,San Bernardino
+36.00,67595,Alta Loma Elementary,59972734,5823,10299,Elementary,San Bernardino
+36.00,67611,Barstow Unified,75006947,5859,12803,Unified,San Bernardino
+36.00,67637,Bear Valley Unified,27423964,2282,12016,Unified,San Bernardino
+36.00,67645,Central Elementary,45789340,4313,10617,Elementary,San Bernardino
+36.00,67652,Chaffey Joint Union High,293120630,22609,12965,High,San Bernardino
+36.00,67678,Chino Valley Unified,283900835,26516,10707,Unified,San Bernardino
+36.00,67686,Colton Joint Unified,258065325,20829,12390,Unified,San Bernardino
+36.00,67694,Cucamonga Elementary,31162898,2301,13541,Elementary,San Bernardino
+36.00,67702,Etiwanda Elementary,146496409,13638,10742,Elementary,San Bernardino
+36.00,67710,Fontana Unified,490696593,34878,14069,Unified,San Bernardino
+36.00,67736,Helendale Elementary,7092793,602,11790,Elementary,San Bernardino
+36.00,67777,Morongo Unified,103824161,7941,13074,Unified,San Bernardino
+36.00,67785,Mountain View Elementary,25784124,2430,10609,Elementary,San Bernardino
+36.00,67793,Mt. Baldy Joint Elementary,1254043,91,13779,Elementary,San Bernardino
+36.00,67801,Needles Unified,12449126,917,13569,Unified,San Bernardino
+36.00,67819,Ontario-Montclair Elementary,276522972,19837,13940,Elementary,San Bernardino
+36.00,67827,Oro Grande Elementary,5402204,90,59965,Elementary,San Bernardino
+36.00,67843,Redlands Unified,234187471,19876,11782,Unified,San Bernardino
+36.00,67850,Rialto Unified,324271619,23921,13556,Unified,San Bernardino
+36.00,67868,Rim of The World Unified,35790038,3015,11869,Unified,San Bernardino
+36.00,67876,San Bernardino City Unified,711904641,45957,15491,Unified,San Bernardino
+36.00,67892,Trona Joint Unified,7416805,265,28011,Unified,San Bernardino
+36.00,67918,Victor Elementary,131281507,11612,11306,Elementary,San Bernardino
+36.00,67934,Victor Valley Union High,136183180,9773,13934,High,San Bernardino
+36.00,67959,Yucaipa-Calimesa Joint Unified,91353178,7856,11629,Unified,San Bernardino
+36.00,73858,Baker Valley Unified,2836031,130,21883,Unified,San Bernardino
+36.00,73890,Silver Valley Unified,30307581,2034,14902,Unified,San Bernardino
+36.00,73957,Snowline Joint Unified,87666437,6986,12549,Unified,San Bernardino
+36.00,75044,Hesperia Unified,252991214,20625,12267,Unified,San Bernardino
+36.00,75051,Lucerne Valley Unified,11263609,696,16192,Unified,San Bernardino
+36.00,75069,Upland Unified,119512503,10196,11722,Unified,San Bernardino
+36.00,75077,Apple Valley Unified,157161111,12378,12697,Unified,San Bernardino
+37.00,67967,Alpine Union Elementary,16521571,1552,10648,Elementary,San Diego
+37.00,67983,Borrego Springs Unified,6543356,371,17652,Unified,San Diego
+37.00,67991,Cajon Valley Union Elementary,199856448,15896,12573,Elementary,San Diego
+37.00,68007,Cardiff Elementary,10315643,666,15487,Elementary,San Diego
+37.00,68023,Chula Vista Elementary,284868629,22366,12737,Elementary,San Diego
+37.00,68031,Coronado Unified,39984984,2942,13593,Unified,San Diego
+37.00,68049,Dehesa Elementary,3694623,131,28253,Elementary,San Diego
+37.00,68056,Del Mar Union Elementary,58637439,4145,14146,Elementary,San Diego
+37.00,68080,Encinitas Union Elementary,63955131,5114,12505,Elementary,San Diego
+37.00,68098,Escondido Union Elementary,191038797,14579,13104,Elementary,San Diego
+37.00,68106,Escondido Union High,101865134,6895,14773,High,San Diego
+37.00,68114,Fallbrook Union Elementary,62677624,4729,13253,Elementary,San Diego
+37.00,68122,Fallbrook Union High,29705169,2001,14847,High,San Diego
+37.00,68130,Grossmont Union High,226587296,15398,14716,High,San Diego
+37.00,68155,Jamul-Dulzura Union Elementary,7043439,551,12792,Elementary,San Diego
+37.00,68163,Julian Union Elementary,4702967,261,17985,Elementary,San Diego
+37.00,68171,Julian Union High,2886985,100,28936,High,San Diego
+37.00,68189,Lakeside Union Elementary,57867766,4862,11903,Elementary,San Diego
+37.00,68197,La Mesa-Spring Valley,134368099,11458,11727,Elementary,San Diego
+37.00,68205,Lemon Grove Elementary,43027651,3376,12746,Elementary,San Diego
+37.00,68213,Mountain Empire Unified,23130086,1614,14333,Unified,San Diego
+37.00,68221,National Elementary,71117955,4980,14279,Elementary,San Diego
+37.00,68296,Poway Unified,396797405,35164,11284,Unified,San Diego
+37.00,68304,Ramona City Unified,58217695,5160,11283,Unified,San Diego
+37.00,68312,Rancho Santa Fe Elementary,12683742,572,22184,Elementary,San Diego
+37.00,68338,San Diego Unified,1356169716,97650,13888,Unified,San Diego
+37.00,68346,San Dieguito Union High,146644611,12557,11678,High,San Diego
+37.00,68353,San Pasqual Union Elementary,6069310,570,10654,Elementary,San Diego
+37.00,68361,Santee Elementary,66619447,6602,10091,Elementary,San Diego
+37.00,68379,San Ysidro Elementary,63899926,4356,14670,Elementary,San Diego
+37.00,68387,Solana Beach Elementary,49075887,2799,17531,Elementary,San Diego
+37.00,68395,South Bay Union Elementary,72938693,4968,14682,Elementary,San Diego
+37.00,68403,Spencer Valley Elementary,2591133,39,65932,Elementary,San Diego
+37.00,68411,Sweetwater Union High,468898039,36825,12733,High,San Diego
+37.00,68437,Vallecitos Elementary,2473161,199,12434,Elementary,San Diego
+37.00,68452,Vista Unified,268375961,19704,13620,Unified,San Diego
+37.00,73551,Carlsbad Unified,121676853,10914,11149,Unified,San Diego
+37.00,73569,Oceanside Unified,213083865,16593,12842,Unified,San Diego
+37.00,73791,San Marcos Unified,226996969,20101,11293,Unified,San Diego
+37.00,75416,Warner Unified,4095063,181,22628,Unified,San Diego
+37.00,75614,Valley Center-Pauma Unified,45871848,3775,12152,Unified,San Diego
+37.00,76851,Bonsall Unified,25237743,2617,9645,Unified,San Diego
+38.00,68478,San Francisco Unified,817101562,49913,16371,Unified,San Francisco
+39.00,68486,Banta Elementary,4771984,314,15187,Elementary,San Joaquin
+39.00,68502,Escalon Unified,26822743,2570,10436,Unified,San Joaquin
+39.00,68544,Jefferson Elementary,22741457,2266,10038,Elementary,San Joaquin
+39.00,68569,Lincoln Unified,99275019,8449,11749,Unified,San Joaquin
+39.00,68577,Linden Unified,26302785,2211,11897,Unified,San Joaquin
+39.00,68585,Lodi Unified,335315008,27091,12377,Unified,San Joaquin
+39.00,68593,Manteca Unified,260766084,22302,11693,Unified,San Joaquin
+39.00,68619,New Hope Elementary,2546455,188,13525,Elementary,San Joaquin
+39.00,68627,New Jerusalem Elementary,2611539,21,126344,Elementary,San Joaquin
+39.00,68635,Oak View Union Elementary,3965254,365,10856,Elementary,San Joaquin
+39.00,68650,Ripon Unified,32643981,3165,10313,Unified,San Joaquin
+39.00,68676,Stockton Unified,500026301,32965,15168,Unified,San Joaquin
+39.00,75499,Tracy Joint Unified,162366066,13972,11621,Unified,San Joaquin
+39.00,76760,Lammersville Joint Unified,52688592,5198,10136,Unified,San Joaquin
+40.00,68700,Atascadero Unified,49932929,4503,11088,Unified,San Luis Obispo
+40.00,68726,Cayucos Elementary,3364194,170,19775,Elementary,San Luis Obispo
+40.00,68759,Lucia Mar Unified,113426694,9848,11518,Unified,San Luis Obispo
+40.00,68791,Pleasant Valley Joint Union Elementary,1034474,50,20489,Elementary,San Luis Obispo
+40.00,68809,San Luis Coastal Unified,96158405,7235,13291,Unified,San Luis Obispo
+40.00,68825,San Miguel Joint Union Elementary,6681671,597,11195,Elementary,San Luis Obispo
+40.00,68833,Shandon Joint Unified,4479225,284,15797,Unified,San Luis Obispo
+40.00,68841,Templeton Unified,25289894,2311,10942,Unified,San Luis Obispo
+40.00,75457,Paso Robles Joint Unified,78893149,6434,12263,Unified,San Luis Obispo
+40.00,75465,Coast Unified,11575789,535,21622,Unified,San Luis Obispo
+41.00,68858,Bayshore Elementary,5709975,362,15756,Elementary,San Mateo
+41.00,68866,Belmont-Redwood Shores Elementary,51311954,4172,12301,Elementary,San Mateo
+41.00,68874,Brisbane Elementary,7945679,446,17821,Elementary,San Mateo
+41.00,68882,Burlingame Elementary,39136053,3394,11533,Elementary,San Mateo
+41.00,68890,Cabrillo Unified,38226512,3013,12687,Unified,San Mateo
+41.00,68908,Hillsborough City Elementary,29209295,1308,22336,Elementary,San Mateo
+41.00,68916,Jefferson Elementary,72904072,5733,12716,Elementary,San Mateo
+41.00,68924,Jefferson Union High,54450201,4069,13383,High,San Mateo
+41.00,68932,Pacifica Elementary,32429489,2986,10860,Elementary,San Mateo
+41.00,68940,La Honda-Pescadero Unified,6712706,301,22286,Unified,San Mateo
+41.00,68957,Las Lomitas Elementary,27937651,1203,23223,Elementary,San Mateo
+41.00,68965,Menlo Park City Elementary,51297098,2848,18015,Elementary,San Mateo
+41.00,68973,Millbrae Elementary,25317217,2298,11016,Elementary,San Mateo
+41.00,68981,Portola Valley Elementary,15325363,556,27546,Elementary,San Mateo
+41.00,68999,Ravenswood City Elementary,40852585,2243,18217,Elementary,San Mateo
+41.00,69005,Redwood City Elementary,97504359,7191,13559,Elementary,San Mateo
+41.00,69013,San Bruno Park Elementary,29904500,2360,12670,Elementary,San Mateo
+41.00,69021,San Carlos Elementary,39101812,2971,13161,Elementary,San Mateo
+41.00,69039,San Mateo-Foster City Elementary,136681781,11279,12118,Elementary,San Mateo
+41.00,69047,San Mateo Union High,164053046,8475,19358,High,San Mateo
+41.00,69062,Sequoia Union High,161718394,8337,19398,High,San Mateo
+41.00,69070,South San Francisco Unified,103511768,7983,12967,Unified,San Mateo
+41.00,69088,Woodside Elementary,11770969,391,30076,Elementary,San Mateo
+42.00,69104,Ballard Elementary,2298278,128,17941,Elementary,Santa Barbara
+42.00,69112,Blochman Union Elementary,2255519,199,11316,Elementary,Santa Barbara
+42.00,69120,Santa Maria-Bonita Elementary,215084308,16370,13139,Elementary,Santa Barbara
+42.00,69138,Buellton Union Elementary,10615289,622,17078,Elementary,Santa Barbara
+42.00,69146,Carpinteria Unified,30542984,2073,14736,Unified,Santa Barbara
+42.00,69161,Cold Spring Elementary,3815474,167,22802,Elementary,Santa Barbara
+42.00,69179,College Elementary,4112304,178,23098,Elementary,Santa Barbara
+42.00,69195,Goleta Union Elementary,54821149,3435,15958,Elementary,Santa Barbara
+42.00,69203,Guadalupe Union Elementary,15825261,1229,12874,Elementary,Santa Barbara
+42.00,69211,Hope Elementary,11159520,920,12125,Elementary,Santa Barbara
+42.00,69229,Lompoc Unified,110323664,9024,12226,Unified,Santa Barbara
+42.00,69245,Los Olivos Elementary,2201473,148,14878,Elementary,Santa Barbara
+42.00,69252,Montecito Union Elementary,11520969,379,30402,Elementary,Santa Barbara
+42.00,69260,Orcutt Union Elementary,45824480,4187,10945,Elementary,Santa Barbara
+42.00,69310,Santa Maria Joint Union High,100586864,7652,13145,High,Santa Barbara
+42.00,69328,Santa Ynez Valley Union High,11593194,877,13225,High,Santa Barbara
+42.00,69336,Solvang Elementary,5033692,574,8764,Elementary,Santa Barbara
+42.00,69344,Vista Del Mar Union Elementary,1418177,47,30193,Elementary,Santa Barbara
+42.00,75010,Cuyama Joint Unified,3462449,187,18550,Unified,Santa Barbara
+42.00,76786,Santa Barbara Unified,166324898,12603,13197,Unified,Santa Barbara
+43.00,69369,Alum Rock Union Elementary,143771496,9261,15525,Elementary,Santa Clara
+43.00,69377,Berryessa Union Elementary,81245204,6759,12021,Elementary,Santa Clara
+43.00,69385,Cambrian Elementary,36362175,3347,10863,Elementary,Santa Clara
+43.00,69393,Campbell Union Elementary,88086609,6969,12640,Elementary,Santa Clara
+43.00,69401,Campbell Union High,106899706,7785,13731,High,Santa Clara
+43.00,69419,Cupertino Union Elementary,202463391,16947,11947,Elementary,Santa Clara
+43.00,69427,East Side Union High,285829345,21330,13400,High,Santa Clara
+43.00,69435,Evergreen Elementary,115112630,10504,10959,Elementary,Santa Clara
+43.00,69450,Franklin-McKinley Elementary,96341963,6990,13783,Elementary,Santa Clara
+43.00,69468,Fremont Union High,165529878,10591,15629,High,Santa Clara
+43.00,69484,Gilroy Unified,128503512,10481,12260,Unified,Santa Clara
+43.00,69492,Lakeside Joint Elementary,2183196,66,33129,Elementary,Santa Clara
+43.00,69500,Loma Prieta Joint Union Elementary,7058326,476,14823,Elementary,Santa Clara
+43.00,69518,Los Altos Elementary,65971390,4117,16025,Elementary,Santa Clara
+43.00,69526,Los Gatos Union Elementary,41060211,2934,13997,Elementary,Santa Clara
+43.00,69534,Los Gatos-Saratoga Joint Union High,57952309,3381,17141,High,Santa Clara
+43.00,69542,Luther Burbank Elementary,6660931,498,13362,Elementary,Santa Clara
+43.00,69575,Moreland Elementary,54604177,4541,12025,Elementary,Santa Clara
+43.00,69583,Morgan Hill Unified,90662331,7846,11556,Unified,Santa Clara
+43.00,69591,Mountain View Whisman Elementary,78449440,4946,15861,Elementary,Santa Clara
+43.00,69609,Mountain View-Los Altos Union High,96772071,4194,23072,High,Santa Clara
+43.00,69617,Mount Pleasant Elementary,30816372,2128,14484,Elementary,Santa Clara
+43.00,69625,Oak Grove Elementary,118639115,9502,12485,Elementary,Santa Clara
+43.00,69633,Orchard Elementary,9922160,856,11588,Elementary,Santa Clara
+43.00,69641,Palo Alto Unified,263967064,11539,22876,Unified,Santa Clara
+43.00,69666,San Jose Unified,348554444,28194,12363,Unified,Santa Clara
+43.00,69674,Santa Clara Unified,279246633,14598,19129,Unified,Santa Clara
+43.00,69682,Saratoga Union Elementary,32987142,1724,19132,Elementary,Santa Clara
+43.00,69690,Sunnyvale Elementary,97905509,6390,15323,Elementary,Santa Clara
+43.00,69708,Union Elementary,67584493,5737,11781,Elementary,Santa Clara
+43.00,73387,Milpitas Unified,115757306,9951,11632,Unified,Santa Clara
+44.00,40261,Santa Cruz City Elementary/High,88362331,6080,14533,Comm admin dist,Santa Cruz
+44.00,69732,Bonny Doon Union Elementary,2110622,152,13878,Elementary,Santa Cruz
+44.00,69757,Happy Valley Elementary,1403856,106,13303,Elementary,Santa Cruz
+44.00,69765,Live Oak Elementary,21808398,1613,13518,Elementary,Santa Cruz
+44.00,69773,Mountain Elementary,1714090,138,12456,Elementary,Santa Cruz
+44.00,69781,Pacific Elementary,1291481,110,11788,Elementary,Santa Cruz
+44.00,69799,Pajaro Valley Unified,260323635,16968,15342,Unified,Santa Cruz
+44.00,69807,San Lorenzo Valley Unified,27394861,2191,12503,Unified,Santa Cruz
+44.00,69849,Soquel Union Elementary,19996860,1795,11137,Elementary,Santa Cruz
+44.00,75432,Scotts Valley Unified,23959088,2328,10290,Unified,Santa Cruz
+45.00,69856,Anderson Union High,18819343,1427,13184,High,Shasta
+45.00,69872,Bella Vista Elementary,4045296,343,11782,Elementary,Shasta
+45.00,69880,Black Butte Union Elementary,2654314,200,13258,Elementary,Shasta
+45.00,69914,Cascade Union Elementary,14221342,1010,14087,Elementary,Shasta
+45.00,69922,Castle Rock Union Elementary,899939,64,14159,Elementary,Shasta
+45.00,69948,Columbia Elementary,9404750,727,12940,Elementary,Shasta
+45.00,69955,Cottonwood Union Elementary,10380882,896,11592,Elementary,Shasta
+45.00,69971,Enterprise Elementary,42397811,3347,12668,Elementary,Shasta
+45.00,69989,Fall River Joint Unified,16082931,1107,14525,Unified,Shasta
+45.00,69997,French Gulch-Whiskeytown Elementary,438450,22,19786,Elementary,Shasta
+45.00,70003,Grant Elementary,7446961,617,12075,Elementary,Shasta
+45.00,70011,Happy Valley Union Elementary,6290450,478,13146,Elementary,Shasta
+45.00,70029,"Igo, Ono, Platina Union Elementary",730084,41,17969,Elementary,Shasta
+45.00,70037,Indian Springs Elementary,572818,14,41569,Elementary,Shasta
+45.00,70045,Junction Elementary,3558702,295,12071,Elementary,Shasta
+45.00,70052,Millville Elementary,2611306,255,10230,Elementary,Shasta
+45.00,70078,North Cow Creek Elementary,2577883,248,10375,Elementary,Shasta
+45.00,70086,Oak Run Elementary,872965,60,14458,Elementary,Shasta
+45.00,70094,Pacheco Union Elementary,7235394,629,11506,Elementary,Shasta
+45.00,70110,Redding Elementary,34656698,2784,12449,Elementary,Shasta
+45.00,70128,Shasta Union Elementary,1500457,113,13249,Elementary,Shasta
+45.00,70136,Shasta Union High,57100002,4098,13935,High,Shasta
+45.00,70169,Whitmore Union Elementary,1105426,39,28483,Elementary,Shasta
+45.00,73700,Mountain Union Elementary,1291054,70,18457,Elementary,Shasta
+45.00,75267,Gateway Unified,29777202,2117,14067,Unified,Shasta
+46.00,70177,Sierra-Plumas Joint Unified,5792084,378,15341,Unified,Sierra
+47.00,70185,Big Springs Union Elementary,2183207,170,12827,Elementary,Siskiyou
+47.00,70193,Bogus Elementary,225035,17,13222,Elementary,Siskiyou
+47.00,70201,Butteville Union Elementary,1905505,187,10195,Elementary,Siskiyou
+47.00,70227,Delphic Elementary,633867,58,10865,Elementary,Siskiyou
+47.00,70243,Dunsmuir Elementary,1154001,85,13510,Elementary,Siskiyou
+47.00,70250,Dunsmuir Joint Union High,1797933,55,32797,High,Siskiyou
+47.00,70292,Forks of Salmon Elementary,256435,8,31008,Elementary,Siskiyou
+47.00,70318,Gazelle Union Elementary,409263,32,12818,Elementary,Siskiyou
+47.00,70326,Grenada Elementary,2296073,220,10443,Elementary,Siskiyou
+47.00,70334,Happy Camp Union Elementary,1403964,103,13585,Elementary,Siskiyou
+47.00,70359,Hornbrook Elementary,887602,48,18404,Elementary,Siskiyou
+47.00,70367,Junction Elementary,474880,27,17647,Elementary,Siskiyou
+47.00,70375,Klamath River Union Elementary,226439,10,22222,Elementary,Siskiyou
+47.00,70383,Little Shasta Elementary,349617,20,17351,Elementary,Siskiyou
+47.00,70409,McCloud Union Elementary,719034,55,13035,Elementary,Siskiyou
+47.00,70417,Montague Elementary,1628176,163,9964,Elementary,Siskiyou
+47.00,70425,Mt. Shasta Union Elementary,6055820,528,11476,Elementary,Siskiyou
+47.00,70458,Seiad Elementary,325065,11,29498,Elementary,Siskiyou
+47.00,70466,Siskiyou Union High,8741694,515,16972,High,Siskiyou
+47.00,70482,Weed Union Elementary,3474372,244,14257,Elementary,Siskiyou
+47.00,70490,Willow Creek Elementary,621771,27,22834,Elementary,Siskiyou
+47.00,70508,Yreka Union Elementary,10666715,932,11440,Elementary,Siskiyou
+47.00,70516,Yreka Union High,9151213,585,15638,High,Siskiyou
+47.00,73684,Butte Valley Unified,4072327,273,14914,Unified,Siskiyou
+47.00,76455,Scott Valley Unified,8776309,633,13861,Unified,Siskiyou
+48.00,70524,Benicia Unified,47907683,4454,10755,Unified,Solano
+48.00,70532,Dixon Unified,36506721,3031,12043,Unified,Solano
+48.00,70540,Fairfield-Suisun Unified,219811559,20391,10780,Unified,Solano
+48.00,70565,Travis Unified,58423237,5289,11045,Unified,Solano
+48.00,70573,Vacaville Unified,122295711,10883,11237,Unified,Solano
+48.00,70581,Vallejo City Unified,150107175,10879,13798,Unified,Solano
+49.00,40246,Petaluma City Elementary/Joint Union High,89056296,7138,12477,Comm admin dist,Sonoma
+49.00,40253,Santa Rosa City Schools,184598205,13598,13576,Comm admin dist,Sonoma
+49.00,70599,Alexander Valley Union Elementary,2247785,105,21318,Elementary,Sonoma
+49.00,70607,West Sonoma County Union High,22313162,1706,13078,High,Sonoma
+49.00,70615,Bellevue Union Elementary,21323616,1533,13908,Elementary,Sonoma
+49.00,70623,Bennett Valley Union Elementary,11034791,964,11450,Elementary,Sonoma
+49.00,70649,Cinnabar Elementary,3524223,245,14390,Elementary,Sonoma
+49.00,70656,Cloverdale Unified,17819174,1309,13618,Unified,Sonoma
+49.00,70672,Dunham Elementary,2045355,161,12673,Elementary,Sonoma
+49.00,70680,Forestville Union Elementary,4247120,226,18823,Elementary,Sonoma
+49.00,70698,Fort Ross Elementary,712295,16,43646,Elementary,Sonoma
+49.00,70706,Geyserville Unified,4126486,216,19081,Unified,Sonoma
+49.00,70714,Gravenstein Union Elementary,8366251,719,11639,Elementary,Sonoma
+49.00,70722,Guerneville Elementary,5071800,254,19965,Elementary,Sonoma
+49.00,70730,Harmony Union Elementary,4353563,235,18545,Elementary,Sonoma
+49.00,70763,Horicon Elementary,1825046,61,29983,Elementary,Sonoma
+49.00,70789,Kenwood Elementary,2724037,130,20941,Elementary,Sonoma
+49.00,70797,Liberty Elementary,2740419,215,12738,Elementary,Sonoma
+49.00,70805,Mark West Union Elementary,14950081,1267,11802,Elementary,Sonoma
+49.00,70813,Monte Rio Union Elementary,1573905,78,20222,Elementary,Sonoma
+49.00,70821,Montgomery Elementary,764164,29,26233,Elementary,Sonoma
+49.00,70839,Oak Grove Union Elementary,11131354,817,13618,Elementary,Sonoma
+49.00,70847,Old Adobe Union Elementary,24459962,1789,13674,Elementary,Sonoma
+49.00,70870,Piner-Olivet Union Elementary,13850544,906,15290,Elementary,Sonoma
+49.00,70888,Kashia Elementary,334584,10,31956,Elementary,Sonoma
+49.00,70896,Rincon Valley Union Elementary,34241297,2820,12143,Elementary,Sonoma
+49.00,70904,Roseland Elementary,31717733,1355,23410,Elementary,Sonoma
+49.00,70938,Sebastopol Union Elementary,6877151,438,15692,Elementary,Sonoma
+49.00,70953,Sonoma Valley Unified,51923529,3624,14328,Unified,Sonoma
+49.00,70961,Twin Hills Union Elementary,8284101,651,12734,Elementary,Sonoma
+49.00,70979,Two Rock Union Elementary,2126705,148,14376,Elementary,Sonoma
+49.00,70995,Waugh Elementary,8724539,829,10526,Elementary,Sonoma
+49.00,71001,West Side Union Elementary,2023553,172,11753,Elementary,Sonoma
+49.00,71019,Wilmar Union Elementary,2519654,237,10625,Elementary,Sonoma
+49.00,71035,Wright Elementary,20156203,1408,14313,Elementary,Sonoma
+49.00,73882,Cotati-Rohnert Park Unified,70052794,5452,12849,Unified,Sonoma
+49.00,75358,Windsor Unified,45858243,3702,12388,Unified,Sonoma
+49.00,75390,Healdsburg Unified,22925989,1363,16819,Unified,Sonoma
+50.00,40717,Modesto City Schools,372364881,28118,13243,Comm admin dist,Stanislaus
+50.00,71043,Ceres Unified,160295158,13122,12215,Unified,Stanislaus
+50.00,71050,Chatom Union Elementary,6925567,574,12072,Elementary,Stanislaus
+50.00,71068,Denair Unified,16608947,1223,13579,Unified,Stanislaus
+50.00,71076,Empire Union Elementary,32705681,2851,11471,Elementary,Stanislaus
+50.00,71084,Gratton Elementary,1623334,143,11382,Elementary,Stanislaus
+50.00,71092,Hart-Ransom Union Elementary,8173645,786,10394,Elementary,Stanislaus
+50.00,71100,Hickman Community Charter,10092463,1013,9964,Elementary,Stanislaus
+50.00,71134,Keyes Union Elementary,9625793,742,12972,Elementary,Stanislaus
+50.00,71142,Knights Ferry Elementary,1368651,147,9294,Elementary,Stanislaus
+50.00,71209,Paradise Elementary,2161411,187,11571,Elementary,Stanislaus
+50.00,71217,Patterson Joint Unified,75714530,5728,13217,Unified,Stanislaus
+50.00,71233,Roberts Ferry Union Elementary,1786330,158,11289,Elementary,Stanislaus
+50.00,71266,Salida Union Elementary,27542116,2250,12243,Elementary,Stanislaus
+50.00,71274,Shiloh Elementary,1869846,164,11377,Elementary,Stanislaus
+50.00,71282,Stanislaus Union Elementary,40697454,3487,11671,Elementary,Stanislaus
+50.00,71290,Sylvan Union Elementary,86910889,7952,10929,Elementary,Stanislaus
+50.00,71324,Valley Home Joint Elementary,1730611,158,10955,Elementary,Stanislaus
+50.00,73601,Newman-Crows Landing Unified,39499643,3077,12836,Unified,Stanislaus
+50.00,75549,Hughson Unified,21977693,1966,11179,Unified,Stanislaus
+50.00,75556,Riverbank Unified,35204813,2285,15409,Unified,Stanislaus
+50.00,75564,Oakdale Joint Unified,55107627,5040,10934,Unified,Stanislaus
+50.00,75572,Waterford Unified,22419982,1727,12984,Unified,Stanislaus
+50.00,75739,Turlock Unified,167998002,13456,12485,Unified,Stanislaus
+51.00,71357,Brittan Elementary,3898155,435,8959,Elementary,Sutter
+51.00,71365,Browns Elementary,1690508,133,12750,Elementary,Sutter
+51.00,71373,East Nicolaus Joint Union High,3400816,287,11858,High,Sutter
+51.00,71381,Franklin Elementary,4479788,467,9598,Elementary,Sutter
+51.00,71399,Live Oak Unified,21008591,1766,11895,Unified,Sutter
+51.00,71407,Marcum-Illinois Union Elementary,2407257,167,14407,Elementary,Sutter
+51.00,71415,Meridian Elementary,923051,44,20959,Elementary,Sutter
+51.00,71423,Nuestro Elementary,1471761,163,9014,Elementary,Sutter
+51.00,71431,Pleasant Grove Joint Union Elementary,1838315,171,10743,Elementary,Sutter
+51.00,71449,Sutter Union High,8138204,723,11253,High,Sutter
+51.00,71456,Winship-Robbins Elementary,1770204,113,15695,Elementary,Sutter
+51.00,71464,Yuba City Unified,152239410,11723,12987,Unified,Sutter
+52.00,71472,Antelope Elementary,7916707,738,10721,Elementary,Tehama
+52.00,71498,Corning Union Elementary,22748455,1971,11543,Elementary,Tehama
+52.00,71506,Corning Union High,12521665,954,13119,High,Tehama
+52.00,71514,Elkins Elementary,182895,12,14967,Elementary,Tehama
+52.00,71522,Evergreen Union Elementary,11635019,1042,11162,Elementary,Tehama
+52.00,71530,Flournoy Union Elementary,364627,35,10560,Elementary,Tehama
+52.00,71548,Gerber Union Elementary,4686919,363,12914,Elementary,Tehama
+52.00,71555,Kirkwood Elementary,1080514,97,11127,Elementary,Tehama
+52.00,71563,Lassen View Union Elementary,3311273,331,10000,Elementary,Tehama
+52.00,71571,Los Molinos Unified,7379136,533,13845,Unified,Tehama
+52.00,71621,Red Bluff Union Elementary,23200269,1964,11813,Elementary,Tehama
+52.00,71639,Red Bluff Joint Union High,21509751,1538,13985,High,Tehama
+52.00,71647,Reeds Creek Elementary,1509211,167,9023,Elementary,Tehama
+52.00,71654,Richfield Elementary,2290678,249,9191,Elementary,Tehama
+53.00,71662,Burnt Ranch Elementary,1249860,80,15602,Elementary,Trinity
+53.00,71670,Coffee Creek Elementary,275595,8,34024,Elementary,Trinity
+53.00,71696,Douglas City Elementary,1912219,169,11312,Elementary,Trinity
+53.00,71738,Junction City Elementary,962096,63,15271,Elementary,Trinity
+53.00,71746,Lewiston Elementary,1003490,59,17110,Elementary,Trinity
+53.00,71761,Trinity Center Elementary,312175,14,23090,Elementary,Trinity
+53.00,73833,Southern Trinity Joint Unified,2396142,85,28310,Unified,Trinity
+53.00,75028,Mountain Valley Unified,4432839,245,18100,Unified,Trinity
+53.00,76513,Trinity Alps Unified,10470102,682,15347,Unified,Trinity
+54.00,71795,Allensworth Elementary,943078,85,11073,Elementary,Tulare
+54.00,71803,Alpaugh Unified,4284674,302,14208,Unified,Tulare
+54.00,71811,Alta Vista Elementary,6791438,550,12352,Elementary,Tulare
+54.00,71829,Buena Vista Elementary,2120124,203,10456,Elementary,Tulare
+54.00,71837,Burton Elementary,56730818,4771,11890,Elementary,Tulare
+54.00,71852,Columbine Elementary,1960590,197,9953,Elementary,Tulare
+54.00,71860,Cutler-Orosi Joint Unified,51526210,3940,13077,Unified,Tulare
+54.00,71894,Ducor Union Elementary,2032193,158,12894,Elementary,Tulare
+54.00,71902,Earlimart Elementary,21527923,1627,13229,Elementary,Tulare
+54.00,71944,Hope Elementary,2499090,227,11029,Elementary,Tulare
+54.00,71951,Hot Springs Elementary,321625,18,17395,Elementary,Tulare
+54.00,71969,Kings River Union Elementary,5421094,423,12810,Elementary,Tulare
+54.00,71985,Liberty Elementary,5206680,637,8168,Elementary,Tulare
+54.00,71993,Lindsay Unified,67878366,3941,17223,Unified,Tulare
+54.00,72009,Monson-Sultana Joint Union Elementary,5241937,442,11866,Elementary,Tulare
+54.00,72017,Oak Valley Union Elementary,5754424,536,10733,Elementary,Tulare
+54.00,72025,Outside Creek Elementary,1014432,100,10139,Elementary,Tulare
+54.00,72033,Palo Verde Union Elementary,6241693,573,10892,Elementary,Tulare
+54.00,72041,Pixley Union Elementary,14638312,970,15091,Elementary,Tulare
+54.00,72058,Pleasant View Elementary,6031076,459,13134,Elementary,Tulare
+54.00,72082,Richgrove Elementary,9171892,580,15801,Elementary,Tulare
+54.00,72090,Rockford Elementary,3617431,330,10953,Elementary,Tulare
+54.00,72108,Saucelito Elementary,1177989,78,15039,Elementary,Tulare
+54.00,72116,Sequoia Union Elementary,3379330,337,10014,Elementary,Tulare
+54.00,72132,Springville Union Elementary,3106431,303,10264,Elementary,Tulare
+54.00,72140,Stone Corral Elementary,1662038,130,12801,Elementary,Tulare
+54.00,72157,Strathmore Union Elementary,9450127,743,12715,Elementary,Tulare
+54.00,72173,Sundale Union Elementary,8110790,801,10123,Elementary,Tulare
+54.00,72181,Sunnyside Union Elementary,4413684,354,12465,Elementary,Tulare
+54.00,72199,Terra Bella Union Elementary,11551612,857,13475,Elementary,Tulare
+54.00,72207,Three Rivers Union Elementary,1293791,126,10274,Elementary,Tulare
+54.00,72215,Tipton Elementary,6735543,525,12822,Elementary,Tulare
+54.00,72223,Traver Joint Elementary,2826236,222,12706,Elementary,Tulare
+54.00,72231,Tulare City Elementary,110344144,9264,11911,Elementary,Tulare
+54.00,72249,Tulare Joint Union High,73170090,5380,13601,High,Tulare
+54.00,72256,Visalia Unified,328174803,27669,11861,Unified,Tulare
+54.00,72264,Waukena Joint Union Elementary,2414030,200,12056,Elementary,Tulare
+54.00,72298,Woodville Union Elementary,5652636,410,13790,Elementary,Tulare
+54.00,75325,Farmersville Unified,33044278,2411,13708,Unified,Tulare
+54.00,75523,Porterville Unified,157617978,12600,12509,Unified,Tulare
+54.00,75531,Dinuba Unified,76425915,6302,12127,Unified,Tulare
+54.00,76794,Woodlake Unified,26587448,2016,13190,Unified,Tulare
+54.00,76836,Exeter Unified,32297132,2617,12341,Unified,Tulare
+55.00,72306,Belleview Elementary,1883725,147,12844,Elementary,Tuolumne
+55.00,72348,Columbia Union Elementary,5233377,461,11350,Elementary,Tuolumne
+55.00,72355,Curtis Creek Elementary,4781075,450,10635,Elementary,Tuolumne
+55.00,72363,Jamestown Elementary,4312600,361,11948,Elementary,Tuolumne
+55.00,72371,Sonora Elementary,7134653,715,9977,Elementary,Tuolumne
+55.00,72389,Sonora Union High,13308893,957,13911,High,Tuolumne
+55.00,72397,Soulsbyville Elementary,5006262,516,9694,Elementary,Tuolumne
+55.00,72405,Summerville Elementary,4112558,381,10788,Elementary,Tuolumne
+55.00,72413,Summerville Union High,6295861,350,17977,High,Tuolumne
+55.00,72421,Twain Harte Elementary,3567511,247,14456,Elementary,Tuolumne
+55.00,75184,Big Oak Flat-Groveland Unified,5191163,276,18813,Unified,Tuolumne
+56.00,72447,Briggs Elementary,5760344,511,11282,Elementary,Ventura
+56.00,72454,Fillmore Unified,46360061,3603,12867,Unified,Ventura
+56.00,72462,Hueneme Elementary,94748526,7928,11951,Elementary,Ventura
+56.00,72470,Mesa Union Elementary,5963340,590,10101,Elementary,Ventura
+56.00,72504,Mupu Elementary,1529213,157,9731,Elementary,Ventura
+56.00,72512,Ocean View Elementary,26248609,2442,10749,Elementary,Ventura
+56.00,72520,Ojai Unified,26036825,2270,11470,Unified,Ventura
+56.00,72538,Oxnard Elementary,202688095,15613,12982,Elementary,Ventura
+56.00,72546,Oxnard Union High,193371793,15419,12541,High,Ventura
+56.00,72553,Pleasant Valley,62075233,6033,10289,Elementary,Ventura
+56.00,72561,Rio Elementary,57849512,5023,11517,Elementary,Ventura
+56.00,72579,Santa Clara Elementary,632037,58,10956,Elementary,Ventura
+56.00,72603,Simi Valley Unified,177362377,15735,11272,Unified,Ventura
+56.00,72611,Somis Union Elementary,2930838,231,12671,Elementary,Ventura
+56.00,72652,Ventura Unified,180163180,15664,11502,Unified,Ventura
+56.00,73759,Conejo Valley Unified,190389890,17729,10739,Unified,Ventura
+56.00,73874,Oak Park Unified,45781712,4425,10347,Unified,Ventura
+56.00,73940,Moorpark Unified,62563920,5897,10610,Unified,Ventura
+56.00,76828,Santa Paula Unified,67356344,5020,13417,Unified,Ventura
+57.00,72678,Davis Joint Unified,98731786,7675,12865,Unified,Yolo
+57.00,72686,Esparto Unified,12549730,887,14150,Unified,Yolo
+57.00,72694,Washington Unified,90438943,7250,12475,Unified,Yolo
+57.00,72702,Winters Joint Unified,18640170,1472,12664,Unified,Yolo
+57.00,72710,Woodland Joint Unified,112276752,9222,12175,Unified,Yolo
+58.00,72728,Camptonville Elementary,776335,45,17375,Elementary,Yuba
+58.00,72736,Marysville Joint Unified,107389549,9072,11837,Unified,Yuba
+58.00,72744,Plumas Lake Elementary,12851170,1283,10016,Elementary,Yuba
+58.00,72751,Wheatland Elementary,15925496,1237,12875,Elementary,Yuba
+58.00,72769,Wheatland Union High,9310831,749,12435,High,Yuba
